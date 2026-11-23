@@ -1,0 +1,68 @@
+{
+    "bb4cd54e-8a97-4a7d-b341-912363f475d4": {
+        "job_id": "bb4cd54e-8a97-4a7d-b341-912363f475d4",
+        "file_path": ".r5_test1.pdf",
+        "status": "completed",
+        "result": {
+            "success": true,
+            "text": "Customer Invoice\nOrder ID: ORD-12345\nDate: 05/10/2026\nAmount: Rs 1499\nError Code: ERR-402\nProduct: Wireless Earbuds",
+            "pages": 1,
+            "method": "pdf_text_extraction",
+            "file_name": ".r5_test1.pdf",
+            "file_type": "pdf",
+            "evidence": {
+                "order_ids": [
+                    "ORD-12345"
+                ],
+                "dates": [
+                    "05/10/2026"
+                ],
+                "amounts": [
+                    "Rs 1499"
+                ],
+                "product_names": [
+                    "Wireless Earbuds"
+                ],
+                "error_codes": [
+                    "ERR-402"
+                ]
+            }
+        },
+        "started_at": 1793172137.4144351,
+        "completed_at": 1793172138.0054162
+    },
+    "3e8bf481-289d-4b88-8def-458f0e02cc6c": {
+        "job_id": "3e8bf481-289d-4b88-8def-458f0e02cc6c",
+        "file_name": "test1.pdf",
+        "file_path": ".r5_test1.pdf",
+        "upload_key": "89a74a90502bd8273d4b903db5b6110dc211543d749c528eb20fe8767dfeb067",
+        "status": "completed",
+        "result": {
+            "success": true,
+            "text": "Customer Invoice\nOrder ID: ORD-12345\nDate: 05/10/2026\nAmount: Rs 1499\nError Code: ERR-402\nProduct: Wireless Earbuds",
+            "pages": 1,
+            "method": "pdf_text_extraction",
+            "file_name": ".r5_test1.pdf",
+            "file_type": "pdf",
+            "evidence": {
+                "order_ids": [
+                    "ORD-12345"
+                ],
+                "dates": [
+                    "05/10/2026"
+                ],
+                "amounts": [
+                    "Rs 1499"
+                ],
+                "product_names": [
+                    "Wireless Earbuds"
+                ],
+                "error_codes": [
+                    "ERR-402"
+                ]
+            }
+        },
+        "started_at": 1793172707.9483793,
+        "completed_at": 1793172708.3283312
+    }
+}

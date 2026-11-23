@@ -1,0 +1,6 @@
+Customer Refund Policy
+
+Refund requests are reviewed by the support team.
+Duplicate payment refunds require payment verification.
+Refunds for unauthorized transactions must be escalated for immediate review.
+Duplicate payment refunds should be reviewed within 24 hours after payment verification.

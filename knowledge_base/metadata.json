@@ -1,0 +1,50 @@
+{
+  "refund_policy.txt": {
+    "version": "1.0",
+    "product": "payments",
+    "region": "global",
+    "access_level": "public",
+    "effective_date": "2026-01-01",
+    "expiry_date": "2099-12-31"
+  },
+  "test_policy.txt": {
+    "version": "1.0",
+    "product": "payments",
+    "region": "global",
+    "access_level": "public",
+    "effective_date": "2026-01-01",
+    "expiry_date": "2099-12-31"
+  },
+  "expired_test.txt": {
+    "version": "1.0",
+    "product": "payments",
+    "region": "global",
+    "access_level": "public",
+    "effective_date": "2025-01-01",
+    "expiry_date": "2026-01-01"
+  },
+  "restricted_test.txt": {
+    "version": "1.0",
+    "product": "payments",
+    "region": "global",
+    "access_level": "admin",
+    "effective_date": "2026-01-01",
+    "expiry_date": "2099-12-31"
+  },
+  "future_test.txt": {
+    "version": "1.0",
+    "product": "payments",
+    "region": "global",
+    "access_level": "public",
+    "effective_date": "2027-01-01",
+    "expiry_date": "2099-12-31"
+  },
+  "injection_test.txt": {
+    "version": "1.0",
+    "product": "payments",
+    "region": "global",
+    "access_level": "public",
+    "effective_date": "2026-01-01",
+    "expiry_date": "2099-12-31"
+  }
+}

@@ -1,0 +1,7 @@
+Customer Refund Policy
+
+Refund requests are reviewed by the support team.
+Duplicate payment refunds require payment verification.
+Refunds for unauthorized transactions must be escalated for immediate review.
+
+THIS IS A BAD TEST UPDATE - SHOULD BE REMOVED BY ROLLBACK.
